@@ -1,0 +1,21 @@
+
+export default {
+    //Группировка констант по имени
+    NAME: 'TASKS',
+
+    //setters
+    SET_TASKS_DATA: 'SET_TASKS_DATA',
+    SET_TASK_DATA: 'SET_TASK_DATA',
+
+    //getters
+    GET_TASKS_DATA: 'GET_TASKS_DATA',
+    GET_TASK_DATA: 'GET_TASK_DATA',
+
+    //actions
+    FETCH_TASKS_DATA: 'FETCH_TASKS_DATA',
+    FETCH_TASK_DATA: 'FETCH_TASK_DATA',
+    STORE_TASKS_DATA: 'STORE_TASKS_DATA',
+    UPDATE_TASKS_DATA: 'UPDATE_TASKS_DATA',
+    DELETE_TASKS_DATA: 'DELETE_TASKS_DATA',
+    CHANGE_TASK_STATUS: 'CHANGE_TASK_STATUS'
+}
